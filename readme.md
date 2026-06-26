@@ -1,6 +1,6 @@
 This is the exercise material that comes with the [Data-driven Modelling for Mechanical Systems SUMMER SCHOOL 2026](https://people.iitism.ac.in/~d2mms/)
 
-[image example](https://colab.research.google.com/github/giovastabile/roma_phd_course_exercises/blob/master/LESSON_1/image.ipynb)
+[image example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/master/LESSON_1/image.ipynb)
 
 [Tutorial 1 - pod example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/master/LESSON_1/pod_example.ipynb)
 

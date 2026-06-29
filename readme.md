@@ -14,8 +14,10 @@ This is the exercise material that comes with the [Data-driven Modelling for Mec
 
 [Bonus Multivariate](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_3/multivariate.ipynb)
 
-[Tutorial 6 - DMD example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_4/DMD_example.ipynb)
+[Tutorial 6 - Full Data Driven Pipeline](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_3/ezyrb_tut_2.ipynb)
 
-[Tutorial 7 - AS example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_5/AS_example.ipynb)
+[Tutorial 7 - DMD example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_4/DMD_example.ipynb)
+
+[Tutorial 8 - AS example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_5/AS_example.ipynb)
 
 

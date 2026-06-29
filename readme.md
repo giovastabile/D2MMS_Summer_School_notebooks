@@ -18,6 +18,6 @@ This is the exercise material that comes with the [Data-driven Modelling for Mec
 
 [Tutorial 7 - DMD example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_4/DMD_example.ipynb)
 
-[Tutorial 8 - AS example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_5/example_AS.ipynb)
+[Tutorial 8 - AS example](https://colab.research.google.com/github/giovastabile/D2MMS_Summer_School_notebooks/blob/main/LESSON_5/Example_AS.ipynb)
 
 
